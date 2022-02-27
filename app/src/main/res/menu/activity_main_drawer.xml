@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_nav_home"
+            android:title="@string/menu_Home" />
+        <item
+            android:id="@+id/nav_termlist"
+            android:icon="@drawable/ic_nav_terms"
+            android:title="@string/menu_Terms" />
+        <item
+            android:id="@+id/nav_courselist"
+            android:icon="@drawable/ic_nav_courses"
+            android:title="@string/menu_courses" />
+        <item
+            android:id="@+id/nav_assessmentlist"
+            android:icon="@drawable/ic_nav_assessment"
+            android:title="@string/menu_assessments" />
+        <item
+            android:id="@+id/nav_mentors"
+            android:icon="@drawable/ic_nav_mentors"
+            android:title="@string/menu_mentors" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/menu_settings" />
+    </group>
+</menu>

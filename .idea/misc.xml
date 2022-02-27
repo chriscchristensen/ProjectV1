@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/cchr117/AndroidStudioProjects/TabbedActivity/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3875" />
+        <entry key="..\:/Users/cchr117/AndroidStudioProjects/TabbedActivity/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.3875" />
+        <entry key="..\:/Users/cchr117/AndroidStudioProjects/TabbedActivity/app/src/main/res/drawable/ic_menu_manage.xml" value="0.3875" />
+        <entry key="..\:/Users/cchr117/AndroidStudioProjects/TabbedActivity/app/src/main/res/drawable/ic_nav_assessment.xml" value="0.3875" />
+        <entry key="..\:/Users/cchr117/AndroidStudioProjects/TabbedActivity/app/src/main/res/drawable/ic_nav_courses.xml" value="0.3875" />
+        <entry key="..\:/Users/cchr117/AndroidStudioProjects/TabbedActivity/app/src/main/res/drawable/ic_nav_mentors.xml" value="0.3875" />
+        <entry key="..\:/Users/cchr117/AndroidStudioProjects/TabbedActivity/app/src/main/res/drawable/ic_nav_terms.xml" value="0.3875" />
+        <entry key="..\:/Users/cchr117/AndroidStudioProjects/TabbedActivity/app/src/main/res/drawable/side_nav_bar.xml" value="0.2215" />
+        <entry key="..\:/Users/cchr117/AndroidStudioProjects/TabbedActivity/app/src/main/res/layout/activity_main.xml" value="0.3875" />
+        <entry key="..\:/Users/cchr117/AndroidStudioProjects/TabbedActivity/app/src/main/res/layout/app_bar_main.xml" value="0.3875" />
+        <entry key="..\:/Users/cchr117/AndroidStudioProjects/TabbedActivity/app/src/main/res/layout/content_main.xml" value="0.3875" />
+        <entry key="..\:/Users/cchr117/AndroidStudioProjects/TabbedActivity/app/src/main/res/layout/fragment_assessment.xml" value="0.254320987654321" />
+        <entry key="..\:/Users/cchr117/AndroidStudioProjects/TabbedActivity/app/src/main/res/layout/fragment_assessment_list.xml" value="0.3875" />
+        <entry key="..\:/Users/cchr117/AndroidStudioProjects/TabbedActivity/app/src/main/res/layout/fragment_assessment_list_list.xml" value="0.36594202898550726" />
+        <entry key="..\:/Users/cchr117/AndroidStudioProjects/TabbedActivity/app/src/main/res/layout/fragment_courses.xml" value="0.3875" />
+        <entry key="..\:/Users/cchr117/AndroidStudioProjects/TabbedActivity/app/src/main/res/layout/fragment_courses_list.xml" value="0.3734375" />
+        <entry key="..\:/Users/cchr117/AndroidStudioProjects/TabbedActivity/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/cchr117/AndroidStudioProjects/TabbedActivity/app/src/main/res/layout/fragment_mentors.xml" value="0.1625" />
+        <entry key="..\:/Users/cchr117/AndroidStudioProjects/TabbedActivity/app/src/main/res/layout/fragment_mentors_list.xml" value="0.3734375" />
+        <entry key="..\:/Users/cchr117/AndroidStudioProjects/TabbedActivity/app/src/main/res/layout/fragment_settings.xml" value="0.3875" />
+        <entry key="..\:/Users/cchr117/AndroidStudioProjects/TabbedActivity/app/src/main/res/layout/fragment_slideshow.xml" value="0.3875" />
+        <entry key="..\:/Users/cchr117/AndroidStudioProjects/TabbedActivity/app/src/main/res/layout/fragment_term_list.xml" value="0.67" />
+        <entry key="..\:/Users/cchr117/AndroidStudioProjects/TabbedActivity/app/src/main/res/layout/fragment_term_list_buttons.xml" value="0.1884498480243161" />
+        <entry key="..\:/Users/cchr117/AndroidStudioProjects/TabbedActivity/app/src/main/res/layout/fragment_term_list_home.xml" value="0.3875" />
+        <entry key="..\:/Users/cchr117/AndroidStudioProjects/TabbedActivity/app/src/main/res/layout/nav_header_main.xml" value="0.1884498480243161" />
+        <entry key="..\:/Users/cchr117/AndroidStudioProjects/TabbedActivity/app/src/main/res/menu/activity_main_drawer.xml" value="0.3875" />
+        <entry key="..\:/Users/cchr117/AndroidStudioProjects/TabbedActivity/app/src/main/res/menu/main.xml" value="0.3875" />
+        <entry key="..\:/Users/cchr117/AndroidStudioProjects/TabbedActivity/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3875" />
+        <entry key="..\:/Users/cchr117/AndroidStudioProjects/TabbedActivity/app/src/main/res/xml/root_preferences.xml" value="0.3875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

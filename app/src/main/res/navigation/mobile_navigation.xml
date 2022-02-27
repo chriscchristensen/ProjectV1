@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.android.tabbedactivity.ui.home.HomeFragment"
+        android:label="@string/menu_Home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_nav_home_to_termListFragment2"
+            app:destination="@id/nav_termlist" />
+        <action
+            android:id="@+id/action_nav_home_to_nav_courselist"
+            app:destination="@id/nav_courselist" />
+        <action
+            android:id="@+id/action_nav_home_to_nav_mentors"
+            app:destination="@id/nav_mentors" />
+        <action
+            android:id="@+id/action_nav_home_to_assessmentFragment"
+            app:destination="@id/nav_assessmentlist" />
+        <action
+            android:id="@+id/action_nav_home_to_settingsFragment"
+            app:destination="@id/nav_settings" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_termlist"
+        android:name="com.example.android.tabbedactivity.ui.TermListFragment"
+        android:label="@string/menu_Terms"
+        tools:layout="@layout/fragment_term_list_home" >
+        <action
+            android:id="@+id/action_termListFragment_to_nav_home"
+            app:destination="@id/nav_home" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_courselist"
+        android:name="com.example.android.tabbedactivity.ui.CoursesFragment"
+        android:label="@string/menu_courses"
+        tools:layout="@layout/fragment_courses_list" >
+        <action
+            android:id="@+id/action_nav_courselist_to_nav_home"
+            app:destination="@id/nav_home" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_mentors"
+        android:name="com.example.android.tabbedactivity.ui.MentorsFragment"
+        android:label="@string/menu_mentors"
+        tools:layout="@layout/fragment_mentors_list" >
+        <action
+            android:id="@+id/action_nav_mentors_to_nav_home"
+            app:destination="@id/nav_home" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_assessmentlist"
+        android:name="com.example.android.tabbedactivity.ui.AssessmentFragment"
+        android:label="@string/menu_assessments"
+        tools:layout="@layout/fragment_assessment_list" >
+        <action
+            android:id="@+id/action_assessmentFragment_to_nav_home"
+            app:destination="@id/nav_home" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_settings"
+        android:name="com.example.android.tabbedactivity.ui.SettingsFragment"
+        android:label="@string/menu_settings"
+        tools:layout="@layout/fragment_settings" >
+        <action
+            android:id="@+id/action_settingsFragment_to_nav_home"
+            app:destination="@id/nav_home" />
+    </fragment>
+</navigation>
